@@ -8,7 +8,7 @@ GTK theme: copy theme from dots/.themes/mountain to ~/.themes/
 
 XFWM theme: already bundled with the gtk theme, just enable it in the window manager settings or turn on the "set matching xfwm4 theme if there is one" switch
 
-TINT2 theme: copy tint2rc from dots/.config/tint2/tint2rc to ~/.config/tint2/ also if you want to replace the xfce4-panel with tint2 panel without deleting it, you can use panel.sh script. Remember that you need to give it permissions to execute first!
+TINT2 theme: copy tint2rc from dots/.config/tint2/tint2rc to ~/.config/tint2/ also if you want to replace the xfce4-panel with tint2 panel without deleting it, you can add panel.sh script to your autostart. Remember that you need to give it permissions to execute first!
 
 GTK.CSS: i made some tweaks to the xfce4-notifyd, to apply them just copy dots/.config/gtk-3.0/gtk.css to ~/.config/gtk-3.0/gtk.css
 
