@@ -1,0 +1,5 @@
+#XfceNotifyWindow {
+    background-color: #0f0f0f; /* Set background color to white */
+    color: #f0f0f0; /* Set text color to black */
+    opacity: 1.0; /* Ensure opacity is set to fully opaque */
+}
