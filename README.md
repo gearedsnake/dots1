@@ -3,4 +3,4 @@ everyone wants to copy my setup for some reason so here you go
 
 # Info
 my XFCE4 setup dotfiles, preview:
-[insert preview here]
+![preview of the setup](https://github.com/terackYT/dots1/blob/main/preview.png)
