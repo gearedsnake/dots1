@@ -1,7 +1,7 @@
 # Info
 my XFCE4 setup dotfiles, preview:
 
-![preview of the setup](https://raw.githubusercontent.com/terackYT/dots2/main/preview.png)
+![preview of the setup](https://github.com/terackYT/dots1/blob/main/preview.png)
 
 # Installation guide
 GTK theme: copy theme from dots/.themes/mountain to ~/.themes/
